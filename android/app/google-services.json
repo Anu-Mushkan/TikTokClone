@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "982131286075",
+    "project_id": "videshotapp",
+    "storage_bucket": "videshotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982131286075:android:8c4b7e4772a99078333c1e",
+        "android_client_info": {
+          "package_name": "com.example.videshot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982131286075-pt8bausvgt0sh4n8fibrju0lrugaflgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videshot_app",
+            "certificate_hash": "8c825350a50c1034c71144f040578450bf3aa504"
+          }
+        },
+        {
+          "client_id": "982131286075-m47k9lhlmv7vqcjn83ketldlmr8r3ck7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVYdkqZPlhWnfL_s9ttpCzslRf0S4n2WE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982131286075-m47k9lhlmv7vqcjn83ketldlmr8r3ck7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
